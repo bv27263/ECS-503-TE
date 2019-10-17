@@ -1,0 +1,11 @@
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.exe
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.deps.json
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.runtimeconfig.json
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.runtimeconfig.dev.json
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.dll
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.pdb
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp3.0\StudentTranscript.csprojAssemblyReference.cache
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp3.0\StudentTranscript.AssemblyInfoInputs.cache
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp3.0\StudentTranscript.AssemblyInfo.cs
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp3.0\StudentTranscript.dll
+C:\Users\Bojan\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp3.0\StudentTranscript.pdb
